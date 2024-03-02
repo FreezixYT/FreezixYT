@@ -1,9 +1,7 @@
 
 <!---
-Salut ! 
-GENEVE, SUISSE
+Dev en c#, html, css, php.
 
-HTML, CSS
-
-Apprend PHP, c# et js.
+Geneve, Suisse
+CFPT Informatique
 --->
