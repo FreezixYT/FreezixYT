@@ -1,7 +1,12 @@
+Nathan / Freezix
 
-<!---
-Dev en c#, html, css, php.
+### Objectif
+- [x] html
+- [x] css
+- [x] php
+- [ ] host my website
+- [ ] javascript
 
 Geneve, Suisse
 CFPT Informatique
---->
+
