@@ -1,10 +1,9 @@
 Nathan / Freezix
 
 ### Objectif
-- [x] html
-- [x] css
+- [x] html / css
 - [x] php
-- [ ] host my website
+- [x] host my website
 - [ ] javascript
 
 Geneve, Suisse
