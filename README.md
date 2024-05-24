@@ -34,6 +34,6 @@
 
 ---
 
-![Freezix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Freezix&show_icons=true&theme=radical)
+![Freezix's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreezixYT&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freezix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreezixYT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
