@@ -6,6 +6,7 @@
 [x] 🌐 HTML / CSS  
 [x] 💻 PHP  
 [x] 🌍 Héberger mon site web  
+[ ] 📱 API
 [ ] 📜 JavaScript  
 
 ### À propos de moi
