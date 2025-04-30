@@ -4,10 +4,9 @@
 
 ### Objectif
 [x] 🌐 HTML / CSS  
-[x] 💻 PHP  
+[x] 💻 Bots crypto
 [x] 🌍 Héberger mon site web  
-[ ] 📱 API
-[ ] 📜 JavaScript  
+
 
 ### À propos de moi
 Étudiant en informatique au CFPT Informatique.
@@ -16,22 +15,11 @@
 - **HTML/CSS** : Création de pages web.
 - **PHP** : Développement de sites web dynamiques.
 - **Hébergement Web** : Hébergement de sites web sur mon Raspberry Pi.
-
-### Projets
-1. **Site Web Personnel**
-   - Portfolio avec tous mes projets terminés.
-   - Une page web avec le statut de mes sites web.
-
-2. **Création d'une API**
-   - API pour connaître le statut de mon Raspberry Pi.
-
-3. **Serveur Minecraft**
-   - Héberger mon serveur Minecraft.
-   - Relier les statistiques du serveur à un site web dynamique.
+   
 
 ### Contact
 - **Localisation** : Genève, Suisse
-- **École** : CFPT Informatique
+- **Discord** : freezix_mc
 
 ---
 
